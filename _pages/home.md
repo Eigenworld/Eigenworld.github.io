@@ -17,7 +17,7 @@ I will complete my Ph.D. in Computer Science by October 2023. Now, I am applying
 
 ### Exploration of Deep Learning Technology
 
-My recent research activity centers around the structural analysis and optimization of Batch Normalization and Transformer by leveraging recent advancements in deep neural networks and graph theory. Check out this quick 3 minute <a href="https://www.youtube.com/watch?v=ZYbB9TayxmQ" target="_blank">video</a> for a snapshot into my current work. I hope to have some publications out shortly surrounding these techniques.
+My recent research activity centers around the structural analysis and optimization of Batch Normalization and Transformer by leveraging recent advancements in deep neural networks and graph theory. Check out the following video for a snapshot into my current work. I hope to have some publications out shortly surrounding these techniques.
 
 <br/>
 
@@ -58,9 +58,3 @@ My research investigates the fundamental mechanisms that exist in complex comput
 ​		&#8194;--Completion：20%
 
 <br/>
-
-### Scholars who keep in touch
-
-**Yehuda Koren**: He is a staff research scientist at Google. Prior to this, he was a senior research scientist at Yahoo! Research and a principal staff member of AT&T Labs-Research.
-
-**Mehak Khan**: She is working as a Senior Researcher (Post-Doc) at Oslo Metropolitan University, where my research focuses on Graph Neural Networks and related algorithms for Citation Networks.
