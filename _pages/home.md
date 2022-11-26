@@ -23,7 +23,7 @@ My recent research activity centers around the structural analysis and optimizat
 
 <div class="row" style="text-align:center">
 <video controls autoplay muted loop width="90%" style="display:inline-block; border-radius: 25px; border:0px solid #FFF;">
-  <source src="{{ site.url }}{{ site.baseurl }}/images/videos/My_Scene.mov" type="video/mp4">
+  <source src="{{ site.url }}{{ site.baseurl }}/images/videos/My_Scene.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
   Analysis and Optimization of Modern Neural Network Architecture Based on Graph Theory.
