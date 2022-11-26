@@ -1,0 +1,7 @@
+@inproceedings{lee_03,
+  title		= {Understanding the message passing in graph neural networks via power iteration clustering},
+  author 	= {Xue Li and Yuanzhi Cheng},
+  booktitle 	= {Neural Networks},
+  pages		= {140},
+  year		= {2021}
+}

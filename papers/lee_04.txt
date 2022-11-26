@@ -1,0 +1,7 @@
+@inproceedings{lee_04,
+  title		= {Growth curve based label propagation algorithm for community detection},
+  author 	= {Xue Li},
+  booktitle 	= {Physics Letters A},
+  pages		= {383},
+  year		= {2019}
+}

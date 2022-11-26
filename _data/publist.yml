@@ -1,0 +1,58 @@
+- title: Tired of Over-smoothing? Stress Graph Drawing Is All You Need!
+  authors: Xue Li and Yuanzhi Cheng
+  url: lee_01
+  image: pickering2021resolvent.png
+  display: <b>Submitted</b>
+  year: 2022
+  arxiv: 2211.10579
+  abstract: "In designing and applying graph neural networks, we often fall into some optimization pitfalls, the most deceptive of which is that we can only build a deep model by solving over-smoothing. The fundamental reason is that we do not understand how graph neural networks work. Stress graph drawing can offer a unique viewpoint to message iteration in the graph, such as the root of the over-smoothing problem lies in the inability of graph models to maintain an ideal distance between nodes. We further elucidate the trigger conditions of over-smoothing and propose Stress Graph Neural Networks. By introducing the attractive and repulsive message passing from stress iteration, we show how to build a deep model without preventing over-smoothing, how to use repulsive information, and how to optimize the current message-passing scheme to approximate the full stress message propagation. By performing different tasks on 23 datasets, we verified the effectiveness of our attractive and repulsive models and the derived relationship between stress iteration and graph neural networks. We believe that stress graph drawing will be a popular resource for understanding and designing graph neural networks."
+
+- title: Irregular Message Passing Networks
+  authors: Xue Li and Yuanzhi Cheng
+  url: lee_02
+  image: pickering2022discovery.png
+  display: <b>Accepted</b>, Knowledge-based System
+  year: 2022
+  doi: doi:10.1016/j.knosys.2022.109919
+  abstract: "The graph neural network (GNN) is a widely adopted technique to process graph-structured data. Despite its pervasiveness, the exact reasons for the message aggregator’s effectiveness are still poorly understood. The popular belief is that this effectiveness stems from optimizing edge weights to improve the local fusion of node information. In this study, we demonstrate that such propagation weight optimization has a limited contribution to the success of message passing. Instead, we find that any normalized random attention (or edge weights) can have a similar and, sometime, even stronger effect. We refer to these randomly initialized propagations as irregular message passing. Experiments conducted on our random edge weight and random attention models verified the positive impact of weight randomness, uncovering the importance of the topology itself in achieving superior results for message iterations."
+
+- title: Understanding the message passing in graph neural networks via power iteration clustering
+  authors: Xue Li and Yuanzhi Cheng
+  url: lee_03
+  image: pickering2018building.png
+  display: <b>Accepted</b>, Neural Networks
+  year: 2021
+  doi: doi:10.1016/j.neunet.2021.02.025
+  abstract: "The mechanism of message passing in graph neural networks (GNNs) is still mysterious. Apart from convolutional neural networks, no theoretical origin for GNNs has been proposed. To our surprise, message passing can be best understood in terms of power iteration. By fully or partly removing activation functions and layer weights of GNNs, we propose subspace power iteration clustering (SPIC) models that iteratively learn with only one aggregator. Experiments show that our models extend GNNs and enhance their capability to process random featured networks. Moreover, we demonstrate the redundancy of some state-of-the-art GNNs in design and define a lower limit for model evaluation by a random aggregator of message passing. Our findings push the boundaries of the theoretical understanding of neural networks."
+
+- title: Growth curve based label propagation algorithm for community detection
+  authors: Xue Li
+  url: lee_04
+  image: pickering2021optimal.png
+  display: <b>Accepted</b>, Physics Letters A
+  year: 2019
+  doi: doi:10.1016/j.physleta.2019.05.005
+  abstract: "How to better and faster identify the community structure is a hot issue in complex networks. During the past decades, various attempts have been made to solve this issue. Amongst them, without doubt, label propagation algorithm (LPA) is one of the most satisfying answers, especially for large-scale networks. However, it has one major flaw that when the community structure is not clear enough, a monster community tends to form. To address this issue, we set a growth curve for communities, gradually increasing from a low capacity to a higher capacity over time. Further, we improve the mechanism of label choosing for small communities to escape from local maximum. The experimental results on both synthetic and real networks demonstrate that our algorithm not only enhances the detection ability of the traditional label propagation algorithm, but also improves the quality of the identified communities."
+
+
+- title: Directed LPA Propagating labels in directed networks
+  authors: Xue Li
+  url: lee_05
+  image: pickering2020resolvent.png
+  display: <b>Accepted</b>, Physics Letters A
+  year: 2018
+  doi: doi:10.1016/j.physleta.2018.11.047
+  abstract: "Ignoring edge directionality and considering the graph as undirected is a common approach to detect 86 communities in directed networks. However, it’s not a meaningful way due to the loss of information 87 captured by the edge property. Even if Leicht and Newman extended the original modularity to a directed 88 version to address this issue, the problem of distinguishing the directionality of the edges still exists 89 in maximizing modularity algorithms. To this direction, we extend one of the most famous scalable 90 algorithms, namely label propagation algorithm (LPA), to a directed case, which can recognize the flow 91 direction among nodes. To explore what properties the directed modularity should have, we also use 92 another directed modularity, called LinkRank, and provide an empirical study. The experimental results 93 on both real and synthetic networks demonstrate that the proposed directed extension algorithms can 94 not only make use of the edge directionality but also keeps the same time complexity as LPA."
+
+- title: Collaborative Filtering Recommendation Algorithm Based on Theme Mining
+  authors: Xue Li and Xindan Gao
+  url: lee_06
+  image: pickering2022structure.png
+  display: <b>Accepted</b>, Journal of Chinese Computer Systems
+  year: 2017
+  doi: paper_id:1000-1220(2018) 04-0664-04
+  abstract: "Aiming at the problem that the traditional recommendation algorithm ignores the group characteristics of the system itself when searching for neighbors, a system theme generation algorithm is proposed to cluster the project category labels according to the high correlation between the project content and the classification label. Based on the idea that items of the same topic have high similarity in the same period, the scoring and temporal similarity of items within the class are considered when calculating the similarity of items within the class. For cross-topic distribution projects, the topic bias coefficient is introduced in the scoring prediction stage to weigh the intra-class score. According to the above theoretical ideas, the traditional collaborative filtering recommendation algorithm is improved, and a collaborative filtering algorithm based on systematic topic mining is proposed. Experimental results show that the algorithm improves the problems existing in the traditional algorithm and improves the recommendation accuracy."
+
+
+
+

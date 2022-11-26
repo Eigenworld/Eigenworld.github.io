@@ -1,0 +1,7 @@
+@inproceedings{lee_05,
+  title		= {Directed LPA: Propagating labels in directed networks},
+  author 	= {Xue Li},
+  booktitle 	= {Physics Letters A},
+  pages		= {732},
+  year		= {2018}
+}

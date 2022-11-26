@@ -1,0 +1,7 @@
+@inproceedings{lee_06,
+  title		= {Collaborative Filtering Recommendation Algorithm Based on Theme Mining},
+  author 	= {Xue Li and Xindan Gao},
+  booktitle 	= {Journal of Chinese Computer Systems},
+  pages		= {110},
+  year		= {2017}
+}

@@ -1,0 +1,7 @@
+@inproceedings{lee_01,
+  title		= {Tired of Over-smoothing? Stress Graph Drawing Is All You Need!},
+  author 	= {Xue Li and Yuanzhi CHeng},
+  booktitle 	= {IEEE TPAMI},
+  pages		= {-},
+  year		= {2022}
+}

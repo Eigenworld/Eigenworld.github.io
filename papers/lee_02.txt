@@ -1,0 +1,7 @@
+@inproceedings{lee_02,
+  title		= {Irregular message passing networks},
+  author 	= {Xue Li and Yuanzhi Cheng},
+  booktitle 	= {Knowledge-based System},
+  pages		= {257},
+  year		= {2022}
+}
