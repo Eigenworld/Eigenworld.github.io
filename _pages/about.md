@@ -73,6 +73,19 @@ Dr. Li, Xue is committed to promoting the research on the interpretability of ar
 
 {% if site.data.awards %}
 
+## Thesis Title
+Ph.D.<br>
+
+ Interpretability and architecture design of message passing of graph neural network
+
+M.S.<br>
+
+Harbin financial forecast based on grey forecasting model
+
+B.S. <br>
+
+Intelligent online teaching system
+
 ## Awards
 
 {% for award in site.data.awards %}
@@ -81,21 +94,17 @@ Dr. Li, Xue is committed to promoting the research on the interpretability of ar
 
 {% endif %}
 
-{% if site.data.grants %}
-## Grants
-
-{% for grant in site.data.grants %}
-* {{ grant.name }}
-{% endfor %}
-
-{% endif %}
-
 ## Collaborators
 
-**Yehuda Koren**: He is a staff research scientist at Google. Prior to this, he was a senior research scientist at Yahoo! Research and a principal staff member of AT&T Labs-Research.
+**Yehuda Koren**:  is a staff research scientist at Google. Prior to this, he was a senior research scientist at Yahoo! Research and a principal staff member of AT&T Labs-Research. He received the PhD degree in computer science from The Weizmann Institute. His main research interests are recommender systems, data mining, machine learning, and information visualization. He led the team that won the two progress awards in the Netflix Prize competition, and was part of the team which won the Netflix Grand Prize. 
+
+
 
 **Mehak Khan**: She is working as a Senior Researcher (Post-Doc) at Oslo Metropolitan University, where my research focuses on Graph Neural Networks and related algorithms for Citation Networks.
 
+
+
+**Shinichi Tamura**: He received B.S., M.S., and Ph.D. degrees in electrical engineering from Osaka University, Osaka, Japan, in 1966, 1968, and 1971, respectively. He was a Professor at the Graduate School of Medicine, the Graduate School of Information Science and Technology, and the Center for Advanced Medical Engineering and Informatics at Osaka University. After retiring from Osaka University in 2007, he joined NBL Co., Ltd, and is now a Director with NBL Technovator Co., Ltd.
 
 
 
