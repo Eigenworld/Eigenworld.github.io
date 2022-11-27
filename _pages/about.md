@@ -76,7 +76,7 @@ Dr. Li, Xue is committed to promoting the research on the interpretability of ar
 ## Thesis Title
 Ph.D.<br>
 
- Interpretability and architecture design of message passing in graph neural networks
+ Interpretability analysis and architecture design of message passing in graph neural networks
 
 M.S.<br>
 
