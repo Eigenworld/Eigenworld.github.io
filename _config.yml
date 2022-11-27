@@ -7,7 +7,7 @@ url: ""
 affiliation: I am a doctoral student of the <a href="http://en.hitsz.edu.cn" target="_blank">Computer Science Department</a> at the Harbin Institute of Technology
 
 # Google analytics ID
-google_analytics: UA-176412042-1
+#google_analytics: UA-176412042-1
 
 # Location info. (shown in footer)
 location: >
@@ -15,7 +15,7 @@ location: >
   Multi-functional Building<br/>
   Harbin Institute of Technology <br/>
   Xidazhi Street 92<br/>
-  Habin, Heilongjiang 02139<br/>
+  Habin, Heilongjiang 150001<br/>
 
 # Contact info. (shown in footer)
 contact: >
