@@ -96,7 +96,7 @@ Intelligent online teaching system
 
 ## Collaborators
 
-**Yehuda Koren**:  is a staff research scientist at Google. Prior to this, he was a senior research scientist at Yahoo! Research and a principal staff member of AT&T Labs-Research. He received the PhD degree in computer science from The Weizmann Institute. His main research interests are recommender systems, data mining, machine learning, and information visualization. He led the team that won the two progress awards in the Netflix Prize competition, and was part of the team which won the Netflix Grand Prize. 
+**Yehuda Koren**:  is a staff research scientist at Google. Prior to this, he was a senior research scientist at Yahoo! Research and a principal staff member of AT&T Labs-Research. He received the Ph.D. degree in computer science from The Weizmann Institute. His main research interests are recommender systems, data mining, machine learning, and information visualization. He led the team that won the two progress awards in the Netflix Prize competition, and was part of the team which won the Netflix Grand Prize. 
 
 
 
