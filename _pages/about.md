@@ -76,7 +76,7 @@ Dr. Li, Xue is committed to promoting the research on the interpretability of ar
 ## Thesis Title
 Ph.D.<br>
 
- Interpretability analysis and architecture design of message passing in graph neural networks
+Explaining and designing the message passing mechanism in graph neural networks
 
 M.S.<br>
 
@@ -84,7 +84,7 @@ Harbin financial forecast based on the grey forecasting model
 
 B.S. <br>
 
-Intelligent online teaching system
+An intelligent online teaching system
 
 ## Awards
 
