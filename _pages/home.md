@@ -35,26 +35,26 @@ Li, Xue et al., *IEEE TPAMI* (2022)
 
 ### Graph-Driven Model Analysis
 
-My research investigates the fundamental mechanisms in complex neural network computations by leveraging graph drawing strategies, randomness analysis, and reduced-order modeling strategies. These mechanisms are important as they govern the understanding, design, and application of artificial intelligence algorithms. The current popular explainability research theory can only provide limited insight into these mechanisms. In much of my research, I look to expose and exploit *combinatorial, geometric, and random* structures in machine learning problems to learn and verify various properties of deep learning models from the data and the algorithm framework to yield reduced-order models explainable and general (i.e., applicable to other neural computing processes). In short, this research is skeptical of the existing AI technology. Unfortunately, I only completed part of my plan at the doctoral stage. The progress of all work is as follows：
+My research investigates the fundamental mechanisms in complex neural network computations by leveraging graph drawing strategies, randomness analysis, and reduced-order modeling strategies. These mechanisms are important as they govern the understanding, design, and application of artificial intelligence algorithms. The current popular explainability research theory can only provide limited insight into these mechanisms. In much of my research, I look to expose and exploit *combinatorial, geometric, and random* structures in machine learning problems to learn and verify various properties of deep learning models from the data and the algorithm framework to yield reduced-order models explainable and general (i.e., applicable to other neural computing processes). In short, this research is skeptical of the existing AI technology. Unfortunately, I only completed part of my plan at the doctoral stage. The progress of all work is as follows (The contents of the doctoral dissertation are marked with an asterisk):
 
 &#8194;	● **Explaining and designing graph neural networks.**
 
-​		&#8194;--Completion：100% for current GNNs
+​		&#8194;--*Completion:  100% for current GNNs
 
-​		&#8194;--Completion：30% for distributed GNNs
+​		&#8194;--  Completion:  30% for distributed GNNs
 
 ​	&#8194;● **Explaining and optimizing of attention mechanism.**
 
-​        &#8194;--Completion：100% for graph attention
+​        &#8194;--*Completion:  100% for graph attention
 
-​		&#8194;--Completion：20% for Transformer attention
+​		&#8194;--  Completion:  20% for Transformer attention
 
 ​	&#8194;● **Explaining and optimizing "X-Norm" (e.g., BatchNorm and LayerNorm)                                                          		(The theoretical part is verified and almost completed.)**
 
-​		&#8194;--Completion：60%
+​		&#8194;--  Completion:  60%
 
 ​	&#8194;● **What is Transformer? A perspective from graph generation and alignment.**
 
-​		&#8194;--Completion：20%
+​		&#8194;--  Completion:  20%
 
 <br/>
