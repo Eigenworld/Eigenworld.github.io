@@ -69,7 +69,7 @@ permalink: /about/
 
 ## Sketch
 
-Dr. Li, Xue is committed to promoting the research on the interpretability of artificial intelligence and giving the current popular deep learning techniques a rigorous and reliable mathematical analysis. He will graduate from the Harbin Institute of Technology before October 2023 and is currently applying for a postdoctoral position.
+Dr. Li, Xue is committed to promoting the research on the interpretability of artificial intelligence and giving the current popular deep learning techniques a rigorous and reliable mathematical analysis. He will graduate from the Harbin Institute of Technology before September 2023 and is currently applying for a postdoctoral position.
 
 {% if site.data.awards %}
 
