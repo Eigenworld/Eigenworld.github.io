@@ -41,20 +41,20 @@ My research investigates the fundamental mechanisms, such as  graph attention an
 
 ​		&#8194;--*Completion:  100% for current GNNs
 
-​		&#8194;-- \ Completion:  30% for distributed GNNs
+​		&#8194;--  Completion:  30% for distributed GNNs
 
 ​	&#8194;● **Explaining and optimizing of attention mechanism.**
 
 ​        &#8194;--*Completion:  100% for graph attention
 
-​		&#8194;-- \ Completion:  50% for Transformer attention
+​		&#8194;--  Completion:  50% for Transformer attention
 
 ​	&#8194;● **Explaining and optimizing "X-Norm" (e.g., BatchNorm and LayerNorm)                                                          		(The theoretical part is verified and almost completed.)**
 
-​		&#8194;-- \ Completion:  60%
+​		&#8194;--  Completion:  60%
 
 ​	&#8194;● **What is Transformer? A perspective from graph generation and alignment.**
 
-​		&#8194;-- \ Completion:  30%
+​		&#8194;--  Completion:  30%
 
 <br/>
