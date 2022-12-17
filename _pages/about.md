@@ -96,7 +96,11 @@ An intelligent online teaching system
 
 ## Collaborators
 
-**Yuanzhi Cheng:** My mentor. He is currently a Professor at the Harbin Institute of technology. He received his Ph.D. through the joint training of Osaka University and Harbin In- stitute of Technology in 2007. His research interests are concentrated on machine learning, image processing, and computer vision. He has published over 50 journal papers in IEEE Trans. Image. Pro- cess, IEEE Trans. Biomed. Eng, IEEE J. Biomed. Health Inform, Med. Image Anal, Pattern Recognition, etc.
+**Yuanzhi Cheng:** My mentor. He is currently a Professor at the Harbin Institute of Technology. He received his Ph.D. through the joint training of Osaka University and Harbin Institute of Technology in 2007. His research interests are concentrated on machine learning, image processing, and computer vision. He has published over 50 journal papers in IEEE Trans. Image. Process, IEEE Trans. Biomed. Eng, IEEE J. Biomed. Health Inform, Med. Image Anal, Pattern Recognition, etc.
+
+
+
+**Shinichi Tamura**: (IEEE life fellow) He received B.S., M.S., and Ph.D. degrees in electrical engineering from Osaka University, Osaka, Japan, in 1966, 1968, and 1971, respectively. He was a Professor at the Graduate School of Medicine, the Graduate School of Information Science and Technology, and the Center for Advanced Medical Engineering and Informatics at Osaka University. After retiring from Osaka University in 2007, he joined NBL Co., Ltd, and is now a Director with NBL Technovator Co., Ltd.
 
 
 
@@ -104,11 +108,11 @@ An intelligent online teaching system
 
 
 
-**Mehak Khan**: She is working as a Senior Researcher (Post-Doc) at Oslo Metropolitan University, where my research focuses on Graph Neural Networks and related algorithms for Citation Networks.
+**Mehak Khan**: She is working as a Senior Researcher (Post-Doc) at Oslo Metropolitan University, where her research focuses on Graph Neural Networks and related algorithms for Citation Networks.
 
 
 
-**Shinichi Tamura**: (IEEE life fellow) He received B.S., M.S., and Ph.D. degrees in electrical engineering from Osaka University, Osaka, Japan, in 1966, 1968, and 1971, respectively. He was a Professor at the Graduate School of Medicine, the Graduate School of Information Science and Technology, and the Center for Advanced Medical Engineering and Informatics at Osaka University. After retiring from Osaka University in 2007, he joined NBL Co., Ltd, and is now a Director with NBL Technovator Co., Ltd.
+
 
 
 
