@@ -43,7 +43,7 @@ My research investigates the fundamental mechanisms, such as  graph attention an
 
 ​		&#8194;--  Completion:  30% for distributed GNNs
 
-​	&#8194;● **Explaining and optimizing of attention mechanism.**
+​	&#8194;● **Explaining and optimizing the attention mechanism.**
 
 ​        &#8194;--*Completion:  100% for graph attention
 
